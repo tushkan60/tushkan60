@@ -11,9 +11,10 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=tushkan60&style=flat-square&color=blue" alt=""/>
-
-### Hi there 👋, I'm Pavel
+<h1>
+  <img src="https://komarev.com/ghpvc/?username=tushkan60&style=flat-square&color=blue" alt=""/>
+  ### Hi there 👋, I'm Pavel
+</h1>
 
 <!--
 **tushkan60/tushkan60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
