@@ -10,9 +10,10 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=tushkan60&style=flat-square&color=blue" alt=""/>
+
 <h1>
-  <img src="https://komarev.com/ghpvc/?username=tushkan60&style=flat-square&color=blue" alt=""/>
-  ### Hi there 👋, I'm Pavel
+  Hi there 👋, I'm Pavel
 </h1>
 </div>
 
