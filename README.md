@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/XEDIHHp3i8bVoEdxd7" width="100" height="100" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/devrock-angular-edr-angularjs-XEDIHHp3i8bVoEdxd7">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/XEDIHHp3i8bVoEdxd7" width="100" height="100" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 <div align="center">
